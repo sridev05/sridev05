@@ -26,7 +26,7 @@ Hi 👋, I'm Sri Dev S<br>🚀 About Me<br>I'm a Computer Science and Engineerin
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sridev05/sridev05/a1e7854e69a0e233ac0b3fcdfebf2b4f8d4945e4/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sridev05/sridev05/a1e7854e69a0e233ac0b3fcdfebf2b4f8d4945e4/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sridev05/sridev05/output/github-snake.svg" />
 </picture>
