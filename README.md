@@ -15,8 +15,6 @@ Hi 👋, I'm Sri Dev S<br>🚀 About Me<br>I'm a Computer Science and Engineerin
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Sridev05&icon=0&color=0)](https://visitcount.itsvg.in)
 
